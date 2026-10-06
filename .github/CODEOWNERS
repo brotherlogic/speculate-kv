@@ -1,0 +1,7 @@
+# CODEOWNERS for Speculate-managed repository
+# Requires human approval for changes to specs, schemas, tests, and workflows.
+/specs/ @brotherlogic
+/proto/ @brotherlogic
+/api/ @brotherlogic
+/tests/ @brotherlogic
+/.github/ @brotherlogic
